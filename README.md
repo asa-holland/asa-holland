@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![houshuai github stats](https://source.unsplash.com/random/800x500)
 
 <!--START_SECTION:waka-->
 ```text
