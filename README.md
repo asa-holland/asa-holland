@@ -20,7 +20,7 @@
 
 
 ## My Portfolio and Work 👀 -
-[Personal Website](http://asaleholland.com/)
+
 
 <h2 align="center">
   My Contributions to Open Source:
@@ -57,6 +57,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-asaleholland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-leholland/)](https://www.linkedin.com/in/asa-leholland/) 
 [![Gmail Badge](https://img.shields.io/badge/-asaleholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaleholland@gmail.com)](mailto:asaleholland@gmail.com)
+[![Asa LeHolland Personal Website](https://img.shields.io/badge/-asaleholland-purple?style=flat-square&link=http://asaleholland.com/)](http://asaleholland.com/)
+[Personal Website](http://asaleholland.com/)
 
 
 
