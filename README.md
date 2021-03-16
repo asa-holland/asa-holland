@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 ##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-leholland/)](https://www.linkedin.com/in/asa-leholland/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaleholland@gmail.com)](mailto:asaleholland@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-asa-leholland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-leholland/)](https://www.linkedin.com/in/asa-leholland/) [![Gmail Badge](https://img.shields.io/badge/-asa-leholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaleholland@gmail.com)](mailto:asaleholland@gmail.com)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
