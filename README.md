@@ -44,6 +44,8 @@
     
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2 align="center">
   Catch Me Elsewhere:
@@ -51,14 +53,15 @@
 
 <p align="center">
     <img src="https://aleen42.github.io/badges/src/stackoverflow.svg">
-    [![Linkedin Badge](https://img.shields.io/badge/-asaleholland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-leholland/)](https://www.linkedin.com/in/asa-leholland/) 
-    [![Gmail Badge](https://img.shields.io/badge/-asaleholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaleholland@gmail.com)](mailto:asaleholland@gmail.com)
 </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-asaleholland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-leholland/)](https://www.linkedin.com/in/asa-leholland/) 
+[![Gmail Badge](https://img.shields.io/badge/-asaleholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaleholland@gmail.com)](mailto:asaleholland@gmail.com)
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+
+
 
 
