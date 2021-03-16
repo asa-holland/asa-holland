@@ -47,17 +47,10 @@
   Catch Me Elsewhere:
 </h2>
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-asaleholland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-leholland/)](https://www.linkedin.com/in/asa-leholland/) &nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-asaleholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaleholland@gmail.com)](mailto:asaleholland@gmail.com) &nbsp;&nbsp;
-[![Asa LeHolland Personal Website](https://img.shields.io/badge/-asaleholland.com-purple?style=flat-square&link=http://asaleholland.com/)](http://asaleholland.com/)  
+    <img src="https://img.shields.io/badge/-asaleholland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-leholland/">
+    <img src="https://img.shields.io/badge/-asaleholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaleholland@gmail.com">
+    <img src="https://img.shields.io/badge/-asaleholland.com-purple?style=flat-square&link=http://asaleholland.com/)">
 </p>
-
-
-
-
-
-
-
 
 
 
