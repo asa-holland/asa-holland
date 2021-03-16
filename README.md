@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![asa-leholland's github stats](https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue)
 ![asa-leholland's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue)
 
-### Tech & Tools Preference
+### Tools Experienced With
 
 <p align="center">
     <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 </p>
 
 
-
-
-<img src="https://aleen42.github.io/badges/src/stackoverflow.svg">
-<img src="https://aleen42.github.io/badges/src/sublime_text.svg">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-
+### Tools Familiar With
+<p align="center">
+    <img src="https://aleen42.github.io/badges/src/stackoverflow.svg">
+    <img src="https://aleen42.github.io/badges/src/sublime_text.svg">
+    <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+    <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
