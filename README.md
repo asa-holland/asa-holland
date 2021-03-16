@@ -7,8 +7,6 @@
     I'm a developer currently pursuing a Postbaccalaureate at <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.  
 </h3>
 
-<!--
-**asa-leholland/asa-leholland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h2 align="center">
   Here are some technologies I use at work:
