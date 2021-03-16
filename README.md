@@ -28,9 +28,10 @@
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="https://aleen42.github.io/badges/src/sublime_text.svg">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue">
-    
-    
+ </p>   
+ 
+<p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue">
 </p>
 
 <!--START_SECTION:waka-->
