@@ -36,8 +36,8 @@
   My Contributions to Open Source:
 </h2>
 <p align="center">
-![asa-leholland's github stats](https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue)
-![asa-leholland's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue)
+    ![asa-leholland's github stats](https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue) &nbsp;&nbsp;
+    ![asa-leholland's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue)
 </p>
 
 <h2 align="center">
