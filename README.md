@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-    I'm a developer currently pursuing a Postbaccalaureate at <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.  
+    I'm a developer with an Environmental Science background currently pursuing a Postbaccalaureate in Computer Science at <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.  
 </h3>
 
 
