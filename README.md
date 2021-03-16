@@ -7,17 +7,6 @@
 </h3>
 
 
-
-<h2 align="center">
-  Here are some technologies I use at work:
-</h2>
-<p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>  
-</p>
-
-
 <h2 align="center">
   My Contributions to Open Source:
 </h2>
