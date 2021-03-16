@@ -1,33 +1,23 @@
 
-### Hi there 👋
-
 <h1 align="center"> Hello! I'm Asa LeHolland </h1>
+
 
 <h3 align="center">
     I'm a developer currently pursuing a Postbaccalaureate at <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.  
 </h3>
 
 
+
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>  
 </p>
 
-<p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
-</p>
+
 
 ## My Portfolio and Work 👀 -
 [Personal Website](http://asaleholland.com/)
@@ -35,7 +25,8 @@
 <h2 align="center">
   My Contributions to Open Source:
 </h2>
-![asa-leholland's github stats](https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue) &nbsp;&nbsp;
+
+![asa-leholland's github stats](https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue)
 ![asa-leholland's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue)
 
 
