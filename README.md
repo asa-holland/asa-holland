@@ -1,3 +1,4 @@
+<p align="center">
 ### Hi there 👋
 
 <!--
@@ -23,13 +24,13 @@ Here are some ideas to get you started:
 
 ### Tech & Tools Preference
 
-<p align="center">
+
     <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-</p>
+
 
 
 
@@ -55,3 +56,5 @@ Here are some ideas to get you started:
 </svg>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</p>
