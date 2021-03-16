@@ -11,8 +11,9 @@
   My Contributions to Open Source:
 </h2>
 
-![asa-leholland's github stats](https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue)
-
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue">
+ </p> 
 
 
 
