@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 ## My Portfolio and Work 👀 -
 [Personal Website](http://asaleholland.com/)
 
-![asa-leholland's github stats](https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true)
+![asa-leholland's github stats](https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue)
 
 ### Tech & Tools Preference
 
