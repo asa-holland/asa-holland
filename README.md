@@ -37,6 +37,12 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   26 hrs 5 mins   ██████████████▒░░░░░░░░░░   57.93 %
+Other        7 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="center">
