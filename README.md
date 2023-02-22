@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-    I'm a developer with an Environmental Science background currently finishing up a Postbaccalaureate in Computer Science at <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.  
+    I'm a developer with an Environmental Science background currently finishing up a Postbaccalaureate in Computer Science at <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.
 </h3>
 
 
@@ -13,7 +13,7 @@
 
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue">
- </p> 
+ </p>
 
 
 
@@ -30,11 +30,13 @@
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
- </p>   
- 
-<p align="center"> 
+ </p>
+
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue">
 </p>
+
+I have committed to the [Programmer's Oath](Oath.md)
 
 <!--START_SECTION:waka-->
 
