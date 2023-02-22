@@ -1,6 +1,5 @@
 # Programmer's Oath
 
-```txt
 In order to defend and preserve the honor of the profession of computer programmers,
 
 I Promise that, to the best of my ability and judgement:
@@ -23,4 +22,4 @@ I Promise that, to the best of my ability and judgement:
 
 - I will never stop learning and improving my craft.
 
-```
+Signed, `Asa LeHolland`

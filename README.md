@@ -1,11 +1,9 @@
 
 <h1 align="center"> Hello! I'm Asa LeHolland </h1>
 
-
 <h3 align="center">
     I'm a developer with an Environmental Science background currently finishing up a Postbaccalaureate in Computer Science at <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.
 </h3>
-
 
 <h2 align="center">
   My Contributions to Open Source:
@@ -14,8 +12,6 @@
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue">
  </p>
-
-
 
 <h2 align="center">
   My Tools of Choice:
@@ -36,7 +32,9 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue">
 </p>
 
-I have committed to the [Programmer's Oath](Oath.md)
+<p align="center">
+     I have committed to the <a href="Oath.md">Programmer's Oath</a>.
+ </p>
 
 <!--START_SECTION:waka-->
 
@@ -63,8 +61,3 @@ Other        17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="https://img.shields.io/badge/-asaleholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaleholland@gmail.com">
     <img src="https://img.shields.io/badge/-asaleholland.com-purple?style=flat-square&link=http://asaleholland.com/)">
 </p>
-
-
-
-
-
