@@ -18,15 +18,16 @@
 </h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white">
-    <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
- </p>
+</p>
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue">
