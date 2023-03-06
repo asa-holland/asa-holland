@@ -27,6 +27,7 @@
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
+  <img
 </p>
 
 <p align="center">
@@ -60,4 +61,7 @@ Other        2 hrs 1 min     ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="https://img.shields.io/badge/-asaleholland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-leholland/">
     <img src="https://img.shields.io/badge/-asaleholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaleholland@gmail.com">
     <img src="https://img.shields.io/badge/-asaleholland.com-purple?style=flat-square&link=http://asaleholland.com/)">
+  <img alt="StackOverflow"
+  src="https://stackoverflow-badge.vercel.app/?userID=13650013" />
+</a>
 </p>
