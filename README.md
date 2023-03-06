@@ -63,5 +63,11 @@ Other        2 hrs 1 min     ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="https://img.shields.io/badge/-asaleholland.com-purple?style=flat-square&link=http://asaleholland.com/)">
   <img alt="StackOverflow"
   src="https://stackoverflow-badge.vercel.app/?userID=13650013" />
+  <a href="https://medium.com/@asaleholland">
+  <img src="https://img.shields.io/badge/Medium-@asaleholland-black?style=flat-square&logo=medium" alt="Link to asaleholland's Medium profile" />
+  <a href="https://devpost.com/asa-leholland">
+    <img src="https://img.shields.io/badge/-Devpost-black?style=flat-square&logo=devpost&color=grey&logoColor=white" alt="Devpost Badge">
+  </a>
+</a>
 </a>
 </p>
