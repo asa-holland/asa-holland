@@ -56,13 +56,13 @@ Bash         4 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   Catch Me Elsewhere:
 </h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/-asaholland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-holland/">
-    <img src="https://img.shields.io/badge/-asaleholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hollandasa@gmail.com">
-    <img src="https://img.shields.io/badge/-asaleholland.com-purple?style=flat-square&link=http://asaholland.net/)">
+    <img src="https://img.shields.io/badge/-asa-holland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-holland/">
+    <img src="https://img.shields.io/badge/-hollandasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hollandasa@gmail.com">
+    <img src="https://img.shields.io/badge/-asaholland.net-purple?style=flat-square&link=http://asaholland.net/)">
   <img alt="StackOverflow"
   src="https://stackoverflow-badge.vercel.app/?userID=13650013" />
   <a href="https://medium.com/@asaholland">
-  <img src="https://img.shields.io/badge/Medium-@asaleholland-black?style=flat-square&logo=medium" alt="Link to asaholland's Medium profile" />
+  <img src="https://img.shields.io/badge/Medium-@asaholland-black?style=flat-square&logo=medium" alt="Link to asaholland's Medium profile" />
   <a href="https://devpost.com/asa-holland">
     <img src="https://img.shields.io/badge/-Devpost-black?style=flat-square&logo=devpost&color=grey&logoColor=white" alt="Devpost Badge">
   </a>
