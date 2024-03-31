@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello! I'm Asa LeHolland </h1>
+<h1 align="center"> Hello! I'm Asa Holland </h1>
 
 <h3 align="center">
     I'm a software engineer with an environmental science background. <br/> I have a Postbaccalaureate in Computer Science from <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.   <br/> I have committed to the <a href="Oath.md">Programmer's Oath</a>.
@@ -10,7 +10,7 @@
 </h2>
 
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=asa-leholland&show_icons=true&hide_border=true&theme=vue">
+     <img src="https://github-readme-stats.vercel.app/api?username=asa-holland&show_icons=true&hide_border=true&theme=vue">
  </p>
 
 <h2 align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asa-leholland&theme=vue">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asa-holland&theme=vue">
 </p>
 
 <!--START_SECTION:waka-->
@@ -56,14 +56,14 @@ Bash         4 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   Catch Me Elsewhere:
 </h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/-asaleholland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-leholland/">
-    <img src="https://img.shields.io/badge/-asaleholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaleholland@gmail.com">
-    <img src="https://img.shields.io/badge/-asaleholland.com-purple?style=flat-square&link=http://asaleholland.com/)">
+    <img src="https://img.shields.io/badge/-asaholland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-holland/">
+    <img src="https://img.shields.io/badge/-asaleholland@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hollandasa@gmail.com">
+    <img src="https://img.shields.io/badge/-asaleholland.com-purple?style=flat-square&link=http://asaholland.net/)">
   <img alt="StackOverflow"
   src="https://stackoverflow-badge.vercel.app/?userID=13650013" />
-  <a href="https://medium.com/@asaleholland">
-  <img src="https://img.shields.io/badge/Medium-@asaleholland-black?style=flat-square&logo=medium" alt="Link to asaleholland's Medium profile" />
-  <a href="https://devpost.com/asa-leholland">
+  <a href="https://medium.com/@asaholland">
+  <img src="https://img.shields.io/badge/Medium-@asaleholland-black?style=flat-square&logo=medium" alt="Link to asaholland's Medium profile" />
+  <a href="https://devpost.com/asa-holland">
     <img src="https://img.shields.io/badge/-Devpost-black?style=flat-square&logo=devpost&color=grey&logoColor=white" alt="Devpost Badge">
   </a>
 </a>
