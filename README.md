@@ -2,7 +2,7 @@
 <h1 align="center"> Hello! I'm Asa Holland </h1>
 
 <h3 align="center">
-    I'm a software engineer with an environmental science background. <br/> I am currently a Master's student at [California Statue University of Fullerton's Software Engineering](https://www.fullerton.edu/ecs/mse/_resources/pdf/MSE_Handbook_2021-8-20-21.pdf) program. <br/> I have a Postbaccalaureate in Computer Science from <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.   <br/> I have committed to the <a href="Oath.md">Programmer's Oath</a>.
+    I'm a software engineer with an environmental science background. <br/> I am currently a Master's student at <a href="https://www.fullerton.edu/ecs/mse/_resources/pdf/MSE_Handbook_2021-8-20-21.pdf">California Statue University of Fullerton's Software Engineering</a> program. <br/> I have a Postbaccalaureate in Computer Science from <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.   <br/> I have committed to the <a href="Oath.md">Programmer's Oath</a>.
 </h3>
 
 <h2 align="center">
