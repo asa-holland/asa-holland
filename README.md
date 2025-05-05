@@ -2,7 +2,7 @@
 <h1 align="center"> Hello! I'm Asa Holland </h1>
 
 <h3 align="center">
-    I'm a software engineer with an environmental science background. <br/> I am currently a Master's student at California Statue University of Fullerton's Software Engineering program. <br/> I have a Postbaccalaureate in Computer Science from <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.   <br/> I have committed to the <a href="Oath.md">Programmer's Oath</a>.
+    I'm a software engineer with an environmental science background. <br/> I am currently a Master's student at [California Statue University of Fullerton's Software Engineering](https://www.fullerton.edu/ecs/mse/_resources/pdf/MSE_Handbook_2021-8-20-21.pdf) program. <br/> I have a Postbaccalaureate in Computer Science from <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.   <br/> I have committed to the <a href="Oath.md">Programmer's Oath</a>.
 </h3>
 
 <h2 align="center">
@@ -28,7 +28,7 @@
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
-<a href="https://chatgpt.com" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-E24C3F?style=flat&&logo=chatbot&logoColor=white"></a>
+<!-- <a href="https://chatgpt.com" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-E24C3F?style=flat&&logo=chatbot&logoColor=white"></a> -->
   <img src="https://img.shields.io/badge/GitHub-Copilot-28a745?logo=github">
 </p>
 
