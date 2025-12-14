@@ -50,7 +50,7 @@ YAML         28 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </h2>
 <p align="center">
     <img src="https://img.shields.io/badge/-asa-holland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asa-holland/">
-    <img src="https://img.shields.io/badge/-hollandasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hollandasa@gmail.com">
+    <img src="https://img.shields.io/badge/-hollandasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asadainsholland@gmail.com">
 <!--     <img src="https://img.shields.io/badge/-asaholland.net-purple?style=flat-square&link=http://asaholland.net/)"> -->
   <img alt="StackOverflow"
   src="https://stackoverflow-badge.vercel.app/?userID=13650013" />
