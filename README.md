@@ -5,13 +5,6 @@
     I'm a software engineer with experience in medical device manufacturing, environmental consulting, and international development. <br/> I am currently a Master's student at <a href="https://www.fullerton.edu/ecs/mse/_resources/pdf/MSE_Handbook_2021-8-20-21.pdf">California Statue University of Fullerton's Software Engineering</a> program. <br/> I have a Postbaccalaureate in Computer Science from <a href="https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/computer-science-double-degree-option/#requirementstext">Oregon State University</a>.   
 </h3>
 <!-- <br/> I have committed to the <a href="Oath.md">Programmer's Oath</a>. -->
-<h2 align="center">
-  My Contributions to Open Source:
-</h2>
-
-<p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=asa-holland&show_icons=true&hide_border=true&theme=vue">
- </p>
 
 <h2 align="center">
   My Tools of Choice:
